@@ -16,18 +16,11 @@
       <description>Today, April, 4 2025, NullTrace Security became a reality. With our mission clear and our goals in focus, we set sail to great things!</description>
     </item>
     <item>
-      <title>John Doe</title>
-      <link>https://nulltracesecurity.com/author/john-doe/</link>
+      <title>Ben Bowman</title>
+      <link>https://nulltracesecurity.com/author/ben-bowman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nulltracesecurity.com/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://nulltracesecurity.com/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nulltracesecurity.com/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+      <guid>https://nulltracesecurity.com/author/ben-bowman/</guid>
+      <description>Ben Bowman started in the Cyber Security field at 12 years old, exceling in computers and causing trouble at a young age.</description>
     </item>
   </channel>
 </rss>

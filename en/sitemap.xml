@@ -43,6 +43,8 @@
                 href="https://nulltracesecurity.com/author/"
                 />
   </url><url>
+    <loc>https://nulltracesecurity.com/author/ben-bowman/</loc>
+  </url><url>
     <loc>https://nulltracesecurity.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -53,30 +55,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://nulltracesecurity.com/categories/"
-                />
-  </url><url>
-    <loc>https://nulltracesecurity.com/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://nulltracesecurity.com/fr/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nulltracesecurity.com/author/john-doe/"
-                />
-  </url><url>
-    <loc>https://nulltracesecurity.com/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://nulltracesecurity.com/fr/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nulltracesecurity.com/author/mark-dinn/"
                 />
   </url><url>
     <loc>https://nulltracesecurity.com/tags/</loc>
